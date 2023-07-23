@@ -21,6 +21,7 @@ The following table lists the known development tools (IDEs) that implement the 
 | Cloud Studio                  | cloudstudio  | [CODING](https://studio.dev.tencent.com/) 
 | JCIDE                         | JCIDE        | [JavaCardOS](https://www.javacardos.com/)   | [JCIDE](https://www.javacardos.com/tools)
 | OpenSumi                      | OpenSumi     | [OpenSumi](https://github.com/opensumi)   | [opensumi/core](https://github.com/opensumi/core)|
+| Helix                         | hx           | [Helix community](https://github.com/helix-editor) | [helix](https://github.com/helix-editor/helix)
 {: .table .table-bordered .table-responsive}
 
 The "client ID" is the identifier that a development tool sends to the debug adapter as part of the [**initialize**](../../specification#Requests_Initialize) request.
